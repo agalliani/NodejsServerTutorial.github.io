@@ -11,6 +11,6 @@ server.post("/", function(req, res){
     res.send(req.body.message);
 })
 
-server.listen(3000, function(){
+server.listen(3000, "127.0.0.1", function(){
     console.log("Express echo server is listening on port 3000!");
 })
