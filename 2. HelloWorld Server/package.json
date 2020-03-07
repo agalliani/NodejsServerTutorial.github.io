@@ -1,0 +1,13 @@
+{
+    "name": "hello-server",
+    "version": "0.1.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "start node server.js && node client.js",
+        "client": "node client.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "request": "^2.88.2"
+    }
+}
