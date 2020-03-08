@@ -15,7 +15,7 @@ It is a lightweight data-interchange format. Basically is a easy way to manage i
 In these examples we are going to use the Node.js platform. It allows to use javascript not only for client-side, but also server-side applications. 
 
 **First** thing to do is obviously [install Node.js](https://nodejs.org/it/download/).
-Then open cmd prompt and type `node`: you will see the version you just installed.
+Then open cmd prompt and type `node -v`: you will see the version you just installed.
 
 Then choose your favourite code editor (I use [Brackets](http://brackets.io/)). 
 Create your project folder, right-click and open it with Brackets! 
