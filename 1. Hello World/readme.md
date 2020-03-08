@@ -1,7 +1,7 @@
 **This simple project write "Hello World" on console.**
 
 # Step 1
-In your folder create a `package.json` new file.
+In your project folder create a `package.json` new file.
 Open it and write this code:
   
     {
