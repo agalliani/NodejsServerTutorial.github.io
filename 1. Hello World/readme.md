@@ -39,5 +39,5 @@ What happened? The `npm start` command opened the `main.js` and ordered to Node 
 
 Another equal way to execute that file was to type `node main.js`.
 
-In this example the use of a script command is quite useless, because of the banality of the application, but it is a simple way to learn how it would be usefoll in more complex applications. In the others tutorial we will see better this topic.
+In this example the use of a script command is quite useless, because of the banality of the application, but it is a simple way to learn how it would be useful in more complex applications. In the others tutorial we will see better this topic.
 
