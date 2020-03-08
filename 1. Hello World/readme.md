@@ -14,7 +14,7 @@ Open it and write this code:
     }
 The voices `name` and `version` are explained by themselves. 
 
-`main` The main field is a module ID that is the primary entry point to your program. That is, if your package is named foo, and a user installs it, and then does require("foo"), then your main module's exports object will be returned.
+`main` The main field is a module ID that is the primary entry point to your program. That is, if your package is named PIPPO, and a user installs it, and then does require("PIPPO"), then your main module's exports object will be returned.
 
 This should be a module ID relative to the root of your package folder.
 
