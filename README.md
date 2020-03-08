@@ -18,7 +18,7 @@ In these examples we are going to use the Node.js platform. It allows to use jav
 Then open cmd prompt and type `node -v`: you will see the version you just installed.
 
 Then choose your favourite code editor (I use [Brackets](http://brackets.io/)). 
-Create your project folder, right-click and open it with Brackets! 
+Create your new empty project folder and name it as you like, right-click and open it with Brackets! 
 All is ready, now open the first example and try something new!
 
 In these examples we will use three Node.js' micro framework:
