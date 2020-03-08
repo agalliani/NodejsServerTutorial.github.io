@@ -1,4 +1,4 @@
-This simple project write "Hello World" on console.
+**This simple project write "Hello World" on console.**
 
 # Step 1
 In your folder create a `package.json` new file.
