@@ -1,5 +1,8 @@
 # Simple server tutorials with Node.js
 
+EVERYONE WOULD BE ABLE TO FOLLOW THESE EXAMPLES!
+Yes, either you who ended up here by chance.
+
 In every folder there is a README file which explain the content of the examples.
 
 It's important to have a very basic knowledge of JSON and JavaScript.
