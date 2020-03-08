@@ -5,7 +5,7 @@ In every folder there is a README file which explain the content of the examples
 
 It's important to have a very basic knowledge of JSON and JavaScript.
 
-**JSON** JavaScript Object Notation
+**JSON** (JavaScript Object Notation).
 It is a lightiweight data-interchange format. Basically is a easy way to manage informations between machines. It is tipically structured as a collection of name/value pairs. 
 
 **JavaScript** is an event-oriented and object-oriented langruage tipically used for client web developmet. 
