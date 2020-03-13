@@ -1,8 +1,8 @@
 # Simple server tutorials with Node.js
 
-**EVERYONE WOULD BE ABLE TO FOLLOW THESE EXAMPLES!
+**EVERYONE WOULD BE ABLE TO FOLLOW THESE EXAMPLES!**
 
-**Yes, either you who ended up here by chance!
+**Yes, either you who ended up here by chance!**
 
 In every folder there is a README file which explain the content of the examples.
 
