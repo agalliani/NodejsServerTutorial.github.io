@@ -4,7 +4,7 @@
 
 **Yes, either you who ended up here by chance!**
 
-In every folder there is a README file which explain the content of the examples.
+In every folder there is a README file which explains the content of the examples.
 
 It's important to have a very basic knowledge of JSON and JavaScript.
 
